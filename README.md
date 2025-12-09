@@ -9,21 +9,21 @@
 
 ## 🧠 Project Overview
 
-This capstone project demonstrates the application of data science principles, tools, and techniques to a large-scale, real-world dataset. Using the Internet Movie Database (IMDb) as a case study, the project explores sentiment trends, rating patterns, and genre-based preferences by combining structured metadata with user-generated content.
+This capstone project applies data science principles, analytical tools, and statistical techniques to a large-scale real-world dataset. Using the Internet Movie Database (IMDb) as a case study, the project investigates how movie popularity relates to production attributes, including cast, directors, writers, and other crew roles. By leveraging the structured IMDb metadata, the project examines whether specific individuals or role categories are associated with consistently higher audience engagement, measured through IMDb user rating counts and average ratings.
 
-To reflect the breadth of the MSDS program, the project integrates **SQL** for data extraction, **R** for exploratory visualization and statistical summaries, and **Python** for natural language processing (NLP) and machine learning.
+To reflect the breadth of the MSDS program, the project integrates **SQL** for data extraction and feature engineering, **R** for statistical analysis and visualization, and **Python** for exploratory analysis and predictive modeling.
 
 ---
 
 ## 📌 Abstract
 
-The Internet Movie Database (IMDb) is one of the most extensive public repositories of film metadata, providing detailed information on titles, ratings, genres, crew, and user feedback. This project explores the IMDb dataset to investigate patterns in sentiment, genre preference, and rating behavior. Using SQL, R, and Python, the study aims to identify features associated with high or low user ratings, explore genre-based rating distributions, and analyze trends across decades of film releases. Findings will be translated into actionable insights that can inform content curation, audience targeting, and recommendation strategies in the film industry.
+The Internet Movie Database (IMDb) is a widely used repository of film information, containing detailed metadata on titles, ratings, genres, cast, and crew. This project analyzes the IMDb dataset to explore how production-related attributes correlate with movie popularity, assessed through IMDb user rating counts and average ratings. SQL is used to construct a clean, movies-only analytical dataset by joining titles, ratings, and personnel information. Python is employed to explore feature relationships, visualize trends, and build preliminary predictive models. R is used to validate statistical associations and generate complementary analytical insights. The results highlight patterns in how cast size, director and writer involvement, and crew categories relate to audience engagement. These findings offer a data-driven perspective on factors that may influence film popularity and contribute to broader understanding of audience behavior in the film industry.
 
 ---
 
 ## 🔑 Keywords
 
-IMDb, sentiment analysis, movie ratings, genre classification, natural language processing (NLP), text mining, exploratory data analysis, machine learning, SQL, R, Python
+IMDb, movie popularity, user ratings, cast analysis, crew analysis, production attributes, feature engineering, exploratory data analysis, statistical modeling, SQL, R, Python
 
 ---
 

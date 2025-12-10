@@ -11,7 +11,7 @@
 
 This capstone project applies data science principles, analytical tools, and statistical techniques to a large-scale real-world dataset. Using the Internet Movie Database (IMDb) as a case study, the project investigates how movie popularity relates to production attributes, including cast, directors, writers, and other crew roles. By leveraging the structured IMDb metadata, the project examines whether specific individuals or role categories are associated with consistently higher audience engagement, measured through IMDb user rating counts and average ratings.
 
-To reflect the breadth of the MSDS program, the project integrates **SQL** for data extraction and feature engineering, **R** for statistical analysis and visualization, and **Python** for exploratory analysis and predictive modeling.
+To reflect the breadth of the MSDS program, the project integrates **SQL** for data extraction and feature engineering (answers structural questions about the data), **R** for statistical analysis and visualization, and **Python** for exploratory analysis and predictive modeling.
 
 ---
 
@@ -40,3 +40,5 @@ IMDb, movie popularity, user ratings, cast analysis, crew analysis, production a
 ## 🌍 Data Source
 
 The data used in this project comes from the official [IMDb Datasets](https://datasets.imdbws.com/) collection. Files are provided in compressed TSV format and include movie metadata, ratings, names, and more. Users are responsible for downloading and managing the dataset if they wish to replicate this analysis. No redistribution of IMDb data is included in this repository.
+
+For IMDb dataset details, visit [IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/).

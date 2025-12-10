@@ -1,3 +1,7 @@
+# -----------------------------------------------------------
+# THIS NEEDS TO BE RUN ONLY ONCE TO CREATE THE db FOR SQLite
+# -----------------------------------------------------------
+
 import sqlite3
 from pathlib import Path
 import pandas as pd

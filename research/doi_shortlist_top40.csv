@@ -1,0 +1,41 @@
+year,title,venue,doi,score
+2014,"Ratings meet reviews, a combined approach to recommend",Proceedings of the 8th ACM Conference on Recommender Systems,10.1145/2645710.2645728,21
+2007,Case amazon: ratings and reviews as part of recommendations,Proceedings of the 2007 ACM Conference on Recommender Systems,10.1145/1297231.1297255,21
+2015,Incorporating Phrase-level Sentiment Analysis on Textual Reviews for Personalized Recommendation,Proceedings of the Eighth ACM International Conference on Web Search and Data Mining,10.1145/2684822.2697033,20
+2019,"Exploiting Ratings, Reviews and Relationships for Item Recommendations in Topic Based Social Networks",The World Wide Web Conference,10.1145/3308558.3313473,19
+2009,Context-based splitting of item ratings in collaborative filtering,Proceedings of the Third ACM Conference on Recommender Systems,10.1145/1639714.1639759,19
+2013,Context-aware review helpfulness rating prediction,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507183,18
+2013,Hidden factors and hidden topics: understanding rating dimensions with review text,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507163,18
+2019,DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation,Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3292500.3330906,17
+2019,Leveraging Ratings and Reviews with Gating Mechanism for Recommendation,Proceedings of the 28th ACM International Conference on Information and Knowledge Management,10.1145/3357384.3357919,17
+2018,Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186158,17
+2013,Incorporating author preference in sentiment rating prediction of reviews,Proceedings of the 22nd International Conference on World Wide Web,10.1145/2487788.2487805,17
+2020,Combining Rating and Review Data by Initializing Latent Factor Models with Topic Models for Top-N Recommendation,Proceedings of the 14th ACM Conference on Recommender Systems,10.1145/3383313.3412207,16
+2018,Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186145,16
+2018,Neural gaussian mixture model for review-based rating prediction,Proceedings of the 12th ACM Conference on Recommender Systems,10.1145/3240323.3240353,16
+2017,Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction,Proceedings of the Eleventh ACM Conference on Recommender Systems,10.1145/3109859.3109890,16
+2016,Explaining Reviews and Ratings with PACO: Poisson Additive Co-Clustering,Proceedings of the 25th International Conference Companion on World Wide Web,10.1145/2872518.2889400,14
+2013,Evaluation of recommendations: rating-prediction and ranking,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507160,14
+2025,A Multi-Factor Collaborative Prediction for Review-based Recommendation,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3748062,13
+2025,Beyond Immediate Click: Engagement-Aware and MoE-Enhanced Transformers for Sequential Movie Recommendation,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3748076,13
+2021,Combating Selection Biases in Recommender Systems with a Few Unbiased Ratings,Proceedings of the 14th ACM International Conference on Web Search and Data Mining,10.1145/3437963.3441799,13
+2020,Improving the Estimation of Tail Ratings in Recommender System with Multi-Latent Representations,Proceedings of the 13th International Conference on Web Search and Data Mining,10.1145/3336191.3371810,13
+2018,Psrec: social recommendation with pseudo ratings,Proceedings of the 12th ACM Conference on Recommender Systems,10.1145/3240323.3240390,13
+2016,Fifty Shades of Ratings: How to Benefit from a Negative Feedback in Top-N Recommendations Tasks,Proceedings of the 10th ACM Conference on Recommender Systems,10.1145/2959100.2959170,13
+2014,Collaborative Filtering Incorporating Review Text and Co-clusters of Hidden User Communities and Item Groups,Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management,10.1145/2661829.2662059,13
+2013,Recommendation opportunities: improving item prediction using weighted percentile methods in collaborative filtering systems,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507229,13
+2012,BlurMe: inferring and obfuscating user gender based on ratings,Proceedings of the Sixth ACM Conference on Recommender Systems,10.1145/2365952.2365989,13
+2011,Review recommendation: personalized prediction of the quality of online reviews,Proceedings of the 20th ACM International Conference on Information and Knowledge Management,10.1145/2063576.2063938,13
+2011,Yahoo! music recommendations: modeling music ratings with temporal dynamics and item taxonomy,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043964,13
+2008,Boosting collaborative filtering based on statistical prediction errors,Proceedings of the 2008 ACM Conference on Recommender Systems,10.1145/1454008.1454011,13
+2024,Calibrating the Predictions for Top-N Recommendations,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3688177,12
+2016,Are You Influenced by Others When Rating? Improve Rating Prediction by Conformity Modeling,Proceedings of the 10th ACM Conference on Recommender Systems,10.1145/2959100.2959141,12
+2015,Overlapping Community Regularization for Rating Prediction in Social Recommender Systems,Proceedings of the 9th ACM Conference on Recommender Systems,10.1145/2792838.2800171,12
+2013,Beyond rating prediction accuracy: on new perspectives in recommender systems,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2508073,12
+2011,Distributed rating prediction in user generated content streams,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043948,12
+2011,Product recommendation and rating prediction based on multi-modal social networks,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043947,12
+2010,Aggregating preference graphs for collaborative rating prediction,Proceedings of the Fourth ACM Conference on Recommender Systems,10.1145/1864708.1864716,12
+2010,Integrating OLAP and recommender systems: an evaluation perspective,Proceedings of the ACM 13th International Workshop on Data Warehousing and OLAP,10.1145/1871940.1871959,12
+2019,Collective embedding for neural context-aware recommender systems,Proceedings of the 13th ACM Conference on Recommender Systems,10.1145/3298689.3347028,11
+2011,Collaborative filtering with collective training,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043983,11
+2024,Integrating Matrix Factorization with Graph based Models,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3688013,10

@@ -1,0 +1,214 @@
+year,title,venue,doi
+2003,Collaborative filtering with decoupled models for preferences and ratings,Proceedings of the Twelfth International Conference on Information and Knowledge Management,10.1145/956863.956922
+2007,Case amazon: ratings and reviews as part of recommendations,Proceedings of the 2007 ACM Conference on Recommender Systems,10.1145/1297231.1297255
+2007,Dynamics of collaborative document rating systems,Proceedings of the 9th WebKDD and 1st SNA-KDD 2007 Workshop on Web Mining and Social Network Analysis,10.1145/1348549.1348555
+2008,Boosting collaborative filtering based on statistical prediction errors,Proceedings of the 2008 ACM Conference on Recommender Systems,10.1145/1454008.1454011
+2008,Improving top-n recommendation techniques using rating variance,Proceedings of the 2008 ACM Conference on Recommender Systems,10.1145/1454008.1454059
+2009,Collaborative prediction and ranking with non-random missing data,Proceedings of the Third ACM Conference on Recommender Systems,10.1145/1639714.1639717
+2009,Community gravity: measuring bidirectional effects by trust and rating on online social networks,Proceedings of the 18th International Conference on World Wide Web,10.1145/1526709.1526810
+2009,Context-based splitting of item ratings in collaborative filtering,Proceedings of the Third ACM Conference on Recommender Systems,10.1145/1639714.1639759
+2009,Hydra: a hybrid recommender system [cross-linked rating and content information],Proceedings of the 1st ACM International Workshop on Complex Networks Meet Information &amp; Knowledge Management,10.1145/1651274.1651289
+2009,Improving rating estimation in recommender systems using aggregation- and variance-based hierarchical models,Proceedings of the Third ACM Conference on Recommender Systems,10.1145/1639714.1639722
+2010,Aggregating preference graphs for collaborative rating prediction,Proceedings of the Fourth ACM Conference on Recommender Systems,10.1145/1864708.1864716
+2010,Combining predictions for accurate recommender systems,Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/1835804.1835893
+2010,Integrating OLAP and recommender systems: an evaluation perspective,Proceedings of the ACM 13th International Workshop on Data Warehousing and OLAP,10.1145/1871940.1871959
+2010,Recommending based on rating frequencies,Proceedings of the Fourth ACM Conference on Recommender Systems,10.1145/1864708.1864755
+2010,Trust network inference for online rating data using generative models,Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/1835804.1835917
+2011,A generalized stochastic block model for recommendation in social rating networks,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043946
+2011,Attention prediction on social media brand pages,Proceedings of the 20th ACM International Conference on Information and Knowledge Management,10.1145/2063576.2063915
+2011,Bayesian latent variable models for collaborative item rating prediction,Proceedings of the 20th ACM International Conference on Information and Knowledge Management,10.1145/2063576.2063680
+2011,Collaborative filtering with collective training,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043983
+2011,Distributed rating prediction in user generated content streams,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043948
+2011,Item popularity and recommendation accuracy,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043957
+2011,Latent aspect rating analysis without aspect keyword supervision,Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/2020408.2020505
+2011,Predicting performance in recommender systems,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2044009
+2011,Product recommendation and rating prediction based on multi-modal social networks,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043947
+2011,Response prediction using collaborative filtering with hierarchies and side-information,Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/2020408.2020436
+2011,Review recommendation: personalized prediction of the quality of online reviews,Proceedings of the 20th ACM International Conference on Information and Knowledge Management,10.1145/2063576.2063938
+2011,Towards a more realistic evaluation: testing the ability to predict future tastes of matrix factorization-based recommenders,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043990
+2011,User reputation in a comment rating environment,Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/2020408.2020439
+2011,Yahoo! music recommendations: modeling music ratings with temporal dynamics and item taxonomy,Proceedings of the Fifth ACM Conference on Recommender Systems,10.1145/2043932.2043964
+2012,BlurMe: inferring and obfuscating user gender based on ratings,Proceedings of the Sixth ACM Conference on Recommender Systems,10.1145/2365952.2365989
+2012,ETF: extended tensor factorization model for personalizing prediction of review helpfulness,Proceedings of the Fifth ACM International Conference on Web Search and Data Mining,10.1145/2124295.2124316
+2012,Experimental analysis on cross domain preferences association and rating prediction,Proceedings of the 1st International Workshop on Cross Domain Knowledge Discovery in Web and Social Network Mining,10.1145/2351333.2351337
+2012,Prediction of retweet cascade size over time,Proceedings of the 21st ACM International Conference on Information and Knowledge Management,10.1145/2396761.2398634
+2012,Scalable collaborative filtering using incremental update and local link prediction,Proceedings of the 21st ACM International Conference on Information and Knowledge Management,10.1145/2396761.2398643
+2012,Trust prediction via aggregating heterogeneous social networks,Proceedings of the 21st ACM International Conference on Information and Knowledge Management,10.1145/2396761.2398515
+2013,Beyond rating prediction accuracy: on new perspectives in recommender systems,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2508073
+2013,Context-aware review helpfulness rating prediction,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507183
+2013,Evaluation of recommendations: rating-prediction and ranking,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507160
+2013,Exploiting collaborative filtering techniques for automatic assessment of student free-text responses,Proceedings of the 22nd ACM International Conference on Information &amp; Knowledge Management,10.1145/2505515.2507827
+2013,Hidden factors and hidden topics: understanding rating dimensions with review text,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507163
+2013,Incorporating author preference in sentiment rating prediction of reviews,Proceedings of the 22nd International Conference on World Wide Web,10.1145/2487788.2487805
+2013,Instant foodie: predicting expert ratings from grassroots,Proceedings of the 22nd ACM International Conference on Information &amp; Knowledge Management,10.1145/2505515.2505712
+2013,Is this app safe for children? a comparison study of maturity ratings on Android and iOS applications,Proceedings of the 22nd International Conference on World Wide Web,10.1145/2488388.2488407
+2013,On popularity prediction of videos shared in online social networks,Proceedings of the 22nd ACM International Conference on Information &amp; Knowledge Management,10.1145/2505515.2505523
+2013,On the prediction of popularity of trends and hits for user generated videos,Proceedings of the Sixth ACM International Conference on Web Search and Data Mining,10.1145/2433396.2433489
+2013,Popularity prediction in microblogging network: a case study on sina weibo,Proceedings of the 22nd International Conference on World Wide Web,10.1145/2487788.2487877
+2013,Recommendation opportunities: improving item prediction using weighted percentile methods in collaborative filtering systems,Proceedings of the 7th ACM Conference on Recommender Systems,10.1145/2507157.2507229
+2013,Review rating prediction based on the content and weighting strong social relation of reviewers,Proceedings of the 2013 International Workshop on Mining Unstructured Big Data Using Natural Language Processing,10.1145/2513549.2513554
+2013,Unsupervised link prediction using aggregative statistics on heterogeneous social networks,Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/2487575.2487614
+2014,A Two Step Ranking Solution for Twitter User Engagement,Proceedings of the 2014 Recommender Systems Challenge,10.1145/2668067.2668081
+2014,Bayesian binomial mixture model for collaborative prediction with non-random missing data,Proceedings of the 8th ACM Conference on Recommender Systems,10.1145/2645710.2645754
+2014,Collaborative Filtering Incorporating Review Text and Co-clusters of Hidden User Communities and Item Groups,Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management,10.1145/2661829.2662059
+2014,Combining geographical information of users and content of items for accurate rating prediction,Proceedings of the 23rd International Conference on World Wide Web,10.1145/2567948.2577342
+2014,"Controlled experimentation in recommendations, ranking &amp; response prediction",Proceedings of the 8th ACM Conference on Recommender Systems,10.1145/2645710.2645781
+2014,Effective and effortless features for popularity prediction in microblogging network,Proceedings of the 23rd International Conference on World Wide Web,10.1145/2567948.2577312
+2014,Exploring Tweet Engagement in the RecSys 2014 Data Challenge,Proceedings of the 2014 Recommender Systems Challenge,10.1145/2668067.2668075
+2014,Item cold-start recommendations: learning local collective embeddings,Proceedings of the 8th ACM Conference on Recommender Systems,10.1145/2645710.2645751
+2014,LASER: a scalable response prediction platform for online advertising,Proceedings of the 7th ACM International Conference on Web Search and Data Mining,10.1145/2556195.2556252
+2014,Predicting User Engagement in Twitter with Collaborative Ranking,Proceedings of the 2014 Recommender Systems Challenge,10.1145/2668067.2668072
+2014,"Ratings meet reviews, a combined approach to recommend",Proceedings of the 8th ACM Conference on Recommender Systems,10.1145/2645710.2645728
+2014,Regression and Learning to Rank Aggregation for User Engagement Evaluation,Proceedings of the 2014 Recommender Systems Challenge,10.1145/2668067.2668077
+2015,A Probabilistic Rating Auto-encoder for Personalized Recommender Systems,Proceedings of the 24th ACM International on Conference on Information and Knowledge Management,10.1145/2806416.2806633
+2015,Collaborative Prediction for Multi-entity Interaction With Hierarchical Representation,Proceedings of the 24th ACM International on Conference on Information and Knowledge Management,10.1145/2806416.2806530
+2015,Future User Engagement Prediction and Its Application to Improve the Sensitivity of Online Experiments,Proceedings of the 24th International Conference on World Wide Web,10.1145/2736277.2741116
+2015,Incorporating Phrase-level Sentiment Analysis on Textual Reviews for Personalized Recommendation,Proceedings of the Eighth ACM International Conference on Web Search and Data Mining,10.1145/2684822.2697033
+2015,Life-stage Prediction for Product Recommendation in E-commerce,Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/2783258.2788562
+2015,Offline Evaluation of Response Prediction in Online Advertising Auctions,Proceedings of the 24th International Conference on World Wide Web,10.1145/2740908.2742566
+2015,Overlapping Community Regularization for Rating Prediction in Social Recommender Systems,Proceedings of the 9th ACM Conference on Recommender Systems,10.1145/2792838.2800171
+2015,Protecting Your Children from Inappropriate Content in Mobile Apps: An Automatic Maturity Rating Framework,Proceedings of the 24th ACM International on Conference on Information and Knowledge Management,10.1145/2806416.2806579
+2015,Real-Time Bid Prediction using Thompson Sampling-Based Expert Selection,Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/2783258.2788586
+2015,Video Popularity Prediction by Sentiment Propagation via Implicit Network,Proceedings of the 24th ACM International on Conference on Information and Knowledge Management,10.1145/2806416.2806505
+2015,Will This Paper Increase Your h-index? Scientific Impact Prediction,Proceedings of the Eighth ACM International Conference on Web Search and Data Mining,10.1145/2684822.2685314
+2016,Are You Influenced by Others When Rating? Improve Rating Prediction by Conformity Modeling,Proceedings of the 10th ACM Conference on Recommender Systems,10.1145/2959100.2959141
+2016,Domain-Aware Grade Prediction and Top-n Course Recommendation,Proceedings of the 10th ACM Conference on Recommender Systems,10.1145/2959100.2959133
+2016,Explaining Reviews and Ratings with PACO: Poisson Additive Co-Clustering,Proceedings of the 25th International Conference Companion on World Wide Web,10.1145/2872518.2889400
+2016,Feature Driven and Point Process Approaches for Popularity Prediction,Proceedings of the 25th ACM International on Conference on Information and Knowledge Management,10.1145/2983323.2983812
+2016,Fifty Shades of Ratings: How to Benefit from a Negative Feedback in Top-N Recommendations Tasks,Proceedings of the 10th ACM Conference on Recommender Systems,10.1145/2959100.2959170
+2016,GLMix: Generalized Linear Mixed Models For Large-Scale Response Prediction,Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/2939672.2939684
+2016,Investigations on Rating Computer Sciences Conferences: An Experiment with the Microsoft Academic Graph Dataset,Proceedings of the 25th International Conference Companion on World Wide Web,10.1145/2872518.2890525
+2016,Retweet Prediction with Attention-based Deep Neural Network,Proceedings of the 25th ACM International on Conference on Information and Knowledge Management,10.1145/2983323.2983809
+2017,Beyond the Stars: Towards a Novel Sentiment Rating to Evaluate Applications in Web Stores of Mobile Apps,Proceedings of the 26th International Conference on World Wide Web Companion,10.1145/3041021.3054139
+2017,Controlling Popularity Bias in Learning-to-Rank Recommendation,Proceedings of the Eleventh ACM Conference on Recommender Systems,10.1145/3109859.3109912
+2017,DeepHawkes: Bridging the Gap between Prediction and Understanding of Information Cascades,Proceedings of the 2017 ACM on Conference on Information and Knowledge Management,10.1145/3132847.3132973
+2017,"Do ""Also-Viewed"" Products Help User Rating Prediction?",Proceedings of the 26th International Conference on World Wide Web,10.1145/3038912.3052581
+2017,Email Category Prediction,Proceedings of the 26th International Conference on World Wide Web Companion,10.1145/3041021.3055166
+2017,Extracting Implicit Social Relation for Social Recommendation Techniques in User Rating Prediction,Proceedings of the 26th International Conference on World Wide Web Companion,10.1145/3041021.3051153
+2017,GPOP: Scalable Group-level Popularity Prediction for Online Content in Social Networks,Proceedings of the 26th International Conference on World Wide Web,10.1145/3038912.3052626
+2017,Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction,Proceedings of the Eleventh ACM Conference on Recommender Systems,10.1145/3109859.3109890
+2017,Local Algorithm for User Action Prediction Towards Display Ads,Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,10.1145/3097983.3098089
+2017,Recipe Popularity Prediction with Deep Visual-Semantic Fusion,Proceedings of the 2017 ACM on Conference on Information and Knowledge Management,10.1145/3132847.3133137
+2018,Adversarial Training Model Unifying Feature Driven and Point Process Perspectives for Event Popularity Prediction,Proceedings of the 27th ACM International Conference on Information and Knowledge Management,10.1145/3269206.3271714
+2018,Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186145
+2018,Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186158
+2018,Fine-grained Video Attractiveness Prediction Using Multimodal Deep Learning on a Large Real-world Dataset,Companion Proceedings of the The Web Conference 2018,10.1145/3184558.3186584
+2018,Heterogeneous Neural Attentive Factorization Machine for Rating Prediction,Proceedings of the 27th ACM International Conference on Information and Knowledge Management,10.1145/3269206.3271759
+2018,I Know You'll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application,Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3219819.3219821
+2018,Neural Attentional Rating Regression with Review-level Explanations,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186070
+2018,Neural gaussian mixture model for review-based rating prediction,Proceedings of the 12th ACM Conference on Recommender Systems,10.1145/3240323.3240353
+2018,Prediction of Sparse User-Item Consumption Rates with Zero-Inflated Poisson Regression,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186153
+2018,Psrec: social recommendation with pseudo ratings,Proceedings of the 12th ACM Conference on Recommender Systems,10.1145/3240323.3240390
+2018,Robust Factorization Machines for User Response Prediction,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186148
+2018,User-guided Hierarchical Attention Network for Multi-modal Social Image Popularity Prediction,Proceedings of the 2018 World Wide Web Conference,10.1145/3178876.3186026
+2019,ARP: Aspect-aware Neural Review Rating Prediction,Proceedings of the 28th ACM International Conference on Information and Knowledge Management,10.1145/3357384.3358086
+2019,Bridging Models for Popularity Prediction on Social Media,Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining,10.1145/3289600.3291598
+2019,Collective embedding for neural context-aware recommender systems,Proceedings of the 13th ACM Conference on Recommender Systems,10.1145/3298689.3347028
+2019,DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation,Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3292500.3330906
+2019,Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination,Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3292500.3330959
+2019,"Exploiting Ratings, Reviews and Relationships for Item Recommendations in Topic Based Social Networks",The World Wide Web Conference,10.1145/3308558.3313473
+2019,Leveraging Ratings and Reviews with Gating Mechanism for Recommendation,Proceedings of the 28th ACM International Conference on Information and Knowledge Management,10.1145/3357384.3357919
+2019,Neural Review Rating Prediction with User and Product Memory,Proceedings of the 28th ACM International Conference on Information and Knowledge Management,10.1145/3357384.3358138
+2019,PerDREP: Personalized Drug Effectiveness Prediction from Longitudinal Observational Data,Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3292500.3330928
+2020,A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction,Proceedings of The Web Conference 2020,10.1145/3366423.3380004
+2020,A Stacking Ensemble Model for Prediction of Multi-type Tweet Engagements,Proceedings of the Recommender Systems Challenge 2020,10.1145/3415959.3415994
+2020,Combining Rating and Review Data by Initializing Latent Factor Models with Topic Models for Top-N Recommendation,Proceedings of the 14th ACM Conference on Recommender Systems,10.1145/3383313.3412207
+2020,Data-driven country safety monitoring terrorist attack prediction,Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,10.1145/3341161.3343527
+2020,Deep Exogenous and Endogenous Influence Combination for Social Chatter Intensity Prediction,Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3394486.3403251
+2020,Deep Time-Aware Item Evolution Network for Click-Through Rate Prediction,Proceedings of the 29th ACM International Conference on Information &amp; Knowledge Management,10.1145/3340531.3411952
+2020,Dual Learning for Explainable Recommendation: Towards Unifying User Preference Prediction and Review Generation,Proceedings of The Web Conference 2020,10.1145/3366423.3380164
+2020,Dual-attentional Factorization-Machines based Neural Network for User Response Prediction,Companion Proceedings of the Web Conference 2020,10.1145/3366424.3382680
+2020,Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction,Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3394486.3403373
+2020,Improving the Estimation of Tail Ratings in Recommender System with Multi-Latent Representations,Proceedings of the 13th International Conference on Web Search and Data Mining,10.1145/3336191.3371810
+2020,Inf-VAE: A Variational Autoencoder Framework to Integrate Homophily and Influence in Diffusion Prediction,Proceedings of the 13th International Conference on Web Search and Data Mining,10.1145/3336191.3371811
+2020,Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions,Proceedings of the 14th ACM Conference on Recommender Systems,10.1145/3383313.3418491
+2020,"Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps",Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining,10.1145/3394486.3403276
+2020,Multi-Objective Blended Ensemble For Highly Imbalanced Sequence Aware Tweet Engagement Prediction,Proceedings of the Recommender Systems Challenge 2020,10.1145/3415959.3415998
+2020,Popularity Prediction on Social Platforms with Coupled Graph Neural Networks,Proceedings of the 13th International Conference on Web Search and Data Mining,10.1145/3336191.3371834
+2020,Product popularity modeling via time series embedding,Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,
+2020,RecSys 2020 Challenge Workshop: Engagement Prediction on Twitter’s Home Timeline,Proceedings of the 14th ACM Conference on Recommender Systems,10.1145/3383313.3411532
+2020,TAFA: Two-headed Attention Fused Autoencoder for Context-Aware Recommendations,Proceedings of the 14th ACM Conference on Recommender Systems,10.1145/3383313.3412268
+2020,"The Connection Between Popularity Bias, Calibration, and Fairness in Recommendation",Proceedings of the 14th ACM Conference on Recommender Systems,10.1145/3383313.3418487
+2021,Analyzing Item Popularity Bias of Music Recommender Systems: Are Different Genders Equally Affected?,Proceedings of the 15th ACM Conference on Recommender Systems,10.1145/3460231.3478843
+2021,Beyond Point Estimate: Inferring Ensemble Prediction Variation from Neuron Activation Strength in Recommender Systems,Proceedings of the 14th ACM International Conference on Web Search and Data Mining,10.1145/3437963.3441770
+2021,Combating Selection Biases in Recommender Systems with a Few Unbiased Ratings,Proceedings of the 14th ACM International Conference on Web Search and Data Mining,10.1145/3437963.3441799
+2021,DCAP: Deep Cross Attentional Product Network for User Response Prediction,Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management,10.1145/3459637.3482246
+2021,Deep Inclusion Relation-aware Network for User Response Prediction at Fliggy,Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining,10.1145/3447548.3467111
+2021,HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding,Proceedings of the Web Conference 2021,10.1145/3442381.3450107
+2021,Interpretable Drug Response Prediction using a Knowledge-based Neural Network,Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining,10.1145/3447548.3467212
+2021,Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System,Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining,10.1145/3447548.3467289
+2021,Neural Information Diffusion Prediction with Topic-Aware Attention Network,Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management,10.1145/3459637.3482374
+2021,Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender Systems,Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management,10.1145/3459637.3482461
+2021,Popularity-Opportunity Bias in Collaborative Filtering,Proceedings of the 14th ACM International Conference on Web Search and Data Mining,10.1145/3437963.3441820
+2021,"Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Analysis and Application",Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining,10.1145/3447548.3467244
+2021,RecSys 2021 Challenge Workshop: Fairness-aware engagement prediction at scale on Twitter’s Home Timeline,Proceedings of the 15th ACM Conference on Recommender Systems,10.1145/3460231.3478515
+2021,Retrieval &amp; Interaction Machine for Tabular Data Prediction,Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining,10.1145/3447548.3467216
+2021,Review-Aware Neural Recommendation with Cross-Modality Mutual Attention,Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management,10.1145/3459637.3482172
+2021,Spatio-Temporal-Social Multi-Feature-based Fine-Grained Hot Spots Prediction for Content Delivery Services in 5G Era,Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management,10.1145/3459637.3482298
+2021,Synerise at RecSys 2021: Twitter user engagement prediction with a fast neural model,Proceedings of the Recommender Systems Challenge 2021,10.1145/3487572.3487599
+2022,A Graph Temporal Information Learning Framework for Popularity Prediction,Companion Proceedings of the Web Conference 2022,10.1145/3487553.3524231
+2022,A Gumbel-based Rating Prediction Framework for Imbalanced Recommendation,Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management,10.1145/3511808.3557341
+2022,Analyzing topic attention in online small groups,Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,10.1145/3487351.3488357
+2022,Community Trend Prediction on Heterogeneous Graph in E-commerce,Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining,10.1145/3488560.3498522
+2022,Context and Attribute-Aware Sequential Recommendation via Cross-Attention,Proceedings of the 16th ACM Conference on Recommender Systems,10.1145/3523227.3546777
+2022,Countering Popularity Bias by Regularizing Score Differences,Proceedings of the 16th ACM Conference on Recommender Systems,10.1145/3523227.3546757
+2022,Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation,Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,10.1145/3534678.3539092
+2022,FedCDR: Federated Cross-Domain Recommendation for Privacy-Preserving Rating Prediction,Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management,10.1145/3511808.3557320
+2022,From #jobsearch to #mask: improving COVID-19 cascade prediction with spillover effects,Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,10.1145/3487351.3488555
+2022,Knowledge-based Temporal Fusion Network for Interpretable Online Video Popularity Prediction,Proceedings of the ACM Web Conference 2022,10.1145/3485447.3511934
+2022,Making Decision like Human: Joint Aspect Category Sentiment Analysis and Rating Prediction with Fine-to-Coarse Reasoning,Proceedings of the ACM Web Conference 2022,10.1145/3485447.3512024
+2022,Multi-task Envisioning Transformer-based Autoencoder for Corporate Credit Rating Migration Early Prediction,Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,10.1145/3534678.3539098
+2022,PREP: Pre-training with Temporal Elapse Inference for Popularity Prediction,Companion Proceedings of the Web Conference 2022,10.1145/3487553.3524249
+2022,Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems,Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management,10.1145/3511808.3557423
+2022,Rating Distribution Calibration for Selection Bias Mitigation in Recommendations,Proceedings of the ACM Web Conference 2022,10.1145/3485447.3512078
+2022,RecSys Challenge 2022: Fashion Purchase Prediction,Proceedings of the 16th ACM Conference on Recommender Systems,10.1145/3523227.3552534
+2022,"Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt &amp; Predict Paradigm (P5)",Proceedings of the 16th ACM Conference on Recommender Systems,10.1145/3523227.3546767
+2022,Successful New-entry Prediction for Multi-Party Online Conversations via Latent Topics and Discourse Modeling,Proceedings of the ACM Web Conference 2022,10.1145/3485447.3512285
+2023,Attention Calibration for Transformer-based Sequential Recommendation,Proceedings of the 32nd ACM International Conference on Information and Knowledge Management,10.1145/3583780.3614785
+2023,Balancing Unobserved Confounding with a Few Unbiased Ratings in Debiased Recommendations,Proceedings of the ACM Web Conference 2023,10.1145/3543507.3583495
+2023,Community-based Dynamic Graph Learning for Popularity Prediction,Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,10.1145/3580305.3599281
+2023,DREAM: Decoupled Representation via Extraction Attention Module and Supervised Contrastive Learning for Cross-Domain Sequential Recommender,Proceedings of the 17th ACM Conference on Recommender Systems,10.1145/3604915.3608780
+2023,Enhancing Information Diffusion Prediction with Self-Supervised Disentangled User and Cascade Representations,Proceedings of the 32nd ACM International Conference on Information and Knowledge Management,10.1145/3583780.3615230
+2023,Evaluating The Effects of Calibrated Popularity Bias Mitigation: A Field Study,Proceedings of the 17th ACM Conference on Recommender Systems,10.1145/3604915.3610637
+2023,Integrating Explicit and Implicit Feature Interactions for Online Ad Installation Forecasting,Proceedings of the Recommender Systems Challenge 2023,10.1145/3626221.3626223
+2023,Invariant Collaborative Filtering to Popularity Distribution Shift,Proceedings of the ACM Web Conference 2023,10.1145/3543507.3583461
+2023,Lightweight Boosting Models for User Response Prediction Using Adversarial Validation,Proceedings of the Recommender Systems Challenge 2023,10.1145/3626221.3626225
+2023,Path-specific Causal Fair Prediction via Auxiliary Graph Structure Learning,Proceedings of the ACM Web Conference 2023,10.1145/3543507.3583280
+2023,PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering,Proceedings of the 32nd ACM International Conference on Information and Knowledge Management,10.1145/3583780.3615009
+2023,Rec4Ad: A Free Lunch to Mitigate Sample Selection Bias for Ads CTR Prediction in Taobao,Proceedings of the 32nd ACM International Conference on Information and Knowledge Management,10.1145/3583780.3615496
+2023,Test-Time Embedding Normalization for Popularity Bias Mitigation,Proceedings of the 32nd ACM International Conference on Information and Knowledge Management,10.1145/3583780.3615281
+2023,Text Matching Improves Sequential Recommendation by Reducing Popularity Biases,Proceedings of the 32nd ACM International Conference on Information and Knowledge Management,10.1145/3583780.3615077
+2023,Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation,Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,10.1145/3580305.3599919
+2023,What We Evaluate When We Evaluate Recommender Systems: Understanding Recommender Systems’ Performance using Item Response Theory,Proceedings of the 17th ACM Conference on Recommender Systems,10.1145/3604915.3608809
+2024,A Deep Prediction Framework for Multi-Source Information via Heterogeneous GNN,Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,10.1145/3637528.3671966
+2024,A Pre-trained Zero-shot Sequential Recommendation Framework via Popularity Dynamics,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3688145
+2024,Aligning Explanations for Recommendation with Rating and Feature via Maximizing Mutual Information,Proceedings of the 33rd ACM International Conference on Information and Knowledge Management,10.1145/3627673.3679663
+2024,Calibrating the Predictions for Top-N Recommendations,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3688177
+2024,Cluster Anchor Regularization to Alleviate Popularity Bias in Recommender Systems,Companion Proceedings of the ACM Web Conference 2024,10.1145/3589335.3648312
+2024,Decoupled Variational Graph Autoencoder for Link Prediction,Proceedings of the ACM Web Conference 2024,10.1145/3589334.3645601
+2024,EASE: Learning Lightweight Semantic Feature Adapters from Large Language Models for CTR Prediction,Proceedings of the 33rd ACM International Conference on Information and Knowledge Management,10.1145/3627673.3680048
+2024,Enhancing Sequential Music Recommendation with Personalized Popularity Awareness,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3691719
+2024,Integrating Matrix Factorization with Graph based Models,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3688013
+2024,Putting Popularity Bias Mitigation to the Test: A User-Centric Evaluation in Music Recommenders,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3688102
+2024,Real-Time Anomaly Detection and Popularity Prediction for Emerging Events on Twitter,Proceedings of the 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,10.1145/3625007.3627517
+2024,Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets,Proceedings of the 18th ACM Conference on Recommender Systems,10.1145/3640457.3691718
+2024,Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction,Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,10.1145/3637528.3672041
+2024,TEXT CAN BE FAIR: Mitigating Popularity Bias with PLMs by Learning Relative Preference,Proceedings of the 33rd ACM International Conference on Information and Knowledge Management,10.1145/3627673.3679581
+2024,Temporal Interest Network for User Response Prediction,Companion Proceedings of the ACM Web Conference 2024,10.1145/3589335.3648340
+2025,A Multi-Factor Collaborative Prediction for Review-based Recommendation,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3748062
+2025,Balancing Accuracy and Novelty with Sub-Item Popularity,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3759311
+2025,Beyond Immediate Click: Engagement-Aware and MoE-Enhanced Transformers for Sequential Movie Recommendation,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3748076
+2025,D2: Customizing Two-Stage Graph Neural Networks for Early Rumor Detection through Cascade Diffusion Prediction,Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining,10.1145/3701551.3703589
+2025,Dual Pairwise Pre-training and Prompt-tuning with Aligned Prototypes for Interbank Credit Rating,Proceedings of the ACM on Web Conference 2025,10.1145/3696410.3714530
+2025,Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3748017
+2025,Forecasting the Buzz: Enriching Hashtag Popularity Prediction with LLM Reasoning,Proceedings of the 34th ACM International Conference on Information and Knowledge Management,10.1145/3746252.3760970
+2025,Generalizable Recommender System During Temporal Popularity Distribution Shifts,Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1,10.1145/3690624.3709299
+2025,Graph Meets LLM for Review Personalization based on User Votes,Proceedings of the ACM on Web Conference 2025,10.1145/3696410.3714691
+2025,Improving CTR Prediction with Graph-Enhanced Interest Networks for Sparse Behavior Sequences,Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining,10.1145/3701551.3703567
+2025,Information Diffusion Prediction Based on User Multi-Dimensional Feature Interaction,Proceedings of the 34th ACM International Conference on Information and Knowledge Management,10.1145/3746252.3760835
+2025,On Inherited Popularity Bias in Cold-Start Item Recommendation,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3748035
+2025,On the Cross-Graph Transferability of Dynamic Link Prediction,Proceedings of the ACM on Web Conference 2025,10.1145/3696410.3714712
+2025,On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective,Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2,10.1145/3711896.3737068
+2025,Popularity‑Bias Vulnerability: Semi‑Supervised Label Inference Attack on Federated Recommender Systems,Proceedings of the Nineteenth ACM Conference on Recommender Systems,10.1145/3705328.3748024
+2025,Predicting Company ESG Ratings from News Articles Using Multivariate Timeseries Analysis,Companion Proceedings of the ACM on Web Conference 2025,10.1145/3701716.3717509
+2025,Seeing the Unseen in Micro-Video Popularity Prediction: Self-Correlation Retrieval for Missing Modality Generation,Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1,10.1145/3690624.3709308

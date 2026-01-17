@@ -1,11 +1,14 @@
 /* ----------------------------------------------------------
+   DS687 DATA SCIENCE CAPSTONE
+   JAN MCCONNELL
+----------------------------------------------------------- */
+
+/* ----------------------------------------------------------
    01: BASIC DATA OVERVIEW
    Count total number of titles in the dataset
 ----------------------------------------------------------- */
 SELECT COUNT(*) AS total_titles
 FROM title_basics;
-
-
 
 /* ----------------------------------------------------------
    02: TITLE TYPE DISTRIBUTION
@@ -16,8 +19,6 @@ SELECT titleType, COUNT(*) AS count_by_type
 FROM title_basics
 GROUP BY titleType
 ORDER BY count_by_type DESC;
-
-
 
 /* ----------------------------------------------------------
    03: MOST COMMON GENRES
@@ -30,8 +31,6 @@ GROUP BY genres
 ORDER BY genre_count DESC
 LIMIT 20;
 
-
-
 /* ----------------------------------------------------------
    04: MOST RECENT MOVIES
    Shows latest movies added to the database
@@ -41,8 +40,6 @@ FROM title_basics
 WHERE titleType = 'movie'
 ORDER BY startYear DESC
 LIMIT 20;
-
-
 
 /* ----------------------------------------------------------
    05: TITLES WITH THE MOST VOTES

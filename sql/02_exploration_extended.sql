@@ -1,4 +1,9 @@
 /* ----------------------------------------------------------
+   DS687 DATA SCIENCE CAPSTONE
+   JAN MCCONNELL
+----------------------------------------------------------- */
+
+/* ----------------------------------------------------------
    01: DISTRIBUTION OF USER RATINGS (averageRating)
    Helps reveal how IMDb ratings are skewed across all titles
 ----------------------------------------------------------- */

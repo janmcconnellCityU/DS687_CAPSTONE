@@ -9,23 +9,23 @@
 
 ## 🧠 Project Overview
 
-This capstone project applies data science and analytics techniques to a large-scale, real-world dataset using the Internet Movie Database (IMDb) as a case study. The project focuses on extracting interpretable signals from IMDb ratings and structured production metadata, including title attributes, release information, genres, and cast and crew roles.
+This capstone project uses the Internet Movie Database (IMDb) as a real-world example of large, relational data used for applied analytics. The focus is on examining IMDb ratings and structured production metadata to understand what observable audience engagement signals can be extracted and where those signals are limited.
 
-Using SQL, a clean, movies-only analytical dataset is constructed through relational joins, filtering, and feature engineering, incorporating audience rating measures such as average ratings and vote counts. The analysis examines whether specific production attributes or role categories are associated with consistently higher levels of audience engagement, as reflected in ratings and vote counts. Rather than evaluating film quality or artistic merit, the project emphasizes identifying patterns and relationships within complex relational data.
+A clean, movies-only analytical dataset is constructed using SQL through relational joins, filtering, and feature engineering. The analysis examines how production attributes such as genres, release periods, and cast and crew roles relate to audience ratings and vote counts. The goal is not to evaluate film quality or artistic merit, but to identify patterns and relationships that emerge when ratings-based measures are analyzed alongside production metadata.
 
-To reflect the applied nature of the MSDS program, the project integrates **SQL** for data preparation and feature engineering, **Python** for exploratory analysis and visualization, and **R** for statistical validation. Results are communicated with an emphasis on interpretability and analytical reasoning, supporting decision-oriented insights relevant to business analytics and data-focused professional roles.
+The project reflects an applied analytics workflow. SQL is used for data preparation and feature construction, Python is used for exploratory analysis and visualization, and R is used for statistical validation. Results are presented with an emphasis on interpretability and analytical reasoning, supporting decision-oriented insights relevant to professional analytics and business contexts.
 
 ---
 
 ## 📌 Abstract
 
-The Internet Movie Database (IMDb) contains extensive structured data describing film titles, production attributes, and audience ratings. This project analyzes IMDb data to extract meaningful analytical signals from ratings and production metadata, with the goal of understanding how cast, crew, and other production-related factors relate to audience engagement. SQL is used to construct and validate a clean relational dataset through targeted joins, filtering, and feature engineering, while Python supports exploratory analysis and visualization and R is used for statistical validation. The project emphasizes interpretable relationships within complex, real-world data and demonstrates an end-to-end analytics workflow applicable to business analytics and data-driven decision-making contexts.
+The Internet Movie Database (IMDb) provides structured data on film titles, production attributes, and aggregated audience ratings. This project analyzes IMDb data to examine how production-related factors, including cast, crew, and title attributes, relate to observable audience engagement as reflected in ratings and vote counts. SQL is used to construct and validate a relational analytical dataset through targeted joins, filtering, and feature engineering. Python supports exploratory analysis and visualization, and R is used for statistical validation. The project emphasizes interpretation of ratings-based signals within complex, real-world data and demonstrates an end-to-end analytics workflow applicable to decision support and applied data science.
 
 ---
 
 ## 🔑 Keywords
 
-IMDb, audience engagement, movie ratings, production metadata, cast and crew analysis, relational data analysis, signal extraction, feature engineering, exploratory data analysis, statistical analysis, SQL, Python, R
+Audience engagement, IMDb ratings, production metadata, relational data analysis, decision support analytics
 
 ---
 

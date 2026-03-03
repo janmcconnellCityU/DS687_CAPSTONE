@@ -1,0 +1,45 @@
+
+Call:
+lm(formula = formula_a, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.7257 -1.3250 -0.3279  1.0622 10.8072 
+
+Coefficients: (6 not defined because of singularities)
+                   Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        3.308798   0.009690 341.481  < 2e-16 ***
+genre_Action      -0.029717   0.013191  -2.253 0.024274 *  
+genre_Adventure   -0.028791   0.015897  -1.811 0.070122 .  
+genre_Animation    0.134301   0.025703   5.225 1.74e-07 ***
+genre_Biography    0.171615   0.021295   8.059 7.72e-16 ***
+genre_Comedy       0.273335   0.009534  28.669  < 2e-16 ***
+genre_Crime        0.022924   0.014855   1.543 0.122797    
+genre_Documentary -0.767942   0.010248 -74.933  < 2e-16 ***
+genre_Family      -0.401008   0.018792 -21.339  < 2e-16 ***
+genre_Fantasy     -0.071826   0.020624  -3.483 0.000497 ***
+genre_Film.Noir          NA         NA      NA       NA    
+genre_Game.Show          NA         NA      NA       NA    
+genre_History     -0.237512   0.022172 -10.712  < 2e-16 ***
+genre_Horror       0.317525   0.013732  23.123  < 2e-16 ***
+genre_Music       -0.257110   0.022376 -11.491  < 2e-16 ***
+genre_Musical     -0.786535   0.023931 -32.866  < 2e-16 ***
+genre_Mystery      0.098941   0.019056   5.192 2.08e-07 ***
+genre_News               NA         NA      NA       NA    
+genre_Reality.TV         NA         NA      NA       NA    
+genre_Romance     -0.034659   0.013773  -2.516 0.011854 *  
+genre_Sci.Fi       0.385070   0.022569  17.062  < 2e-16 ***
+genre_Short              NA         NA      NA       NA    
+genre_Sport        0.154660   0.030405   5.087 3.65e-07 ***
+genre_Talk.Show          NA         NA      NA       NA    
+genre_Thriller     0.246848   0.013812  17.872  < 2e-16 ***
+genre_War         -0.176272   0.025042  -7.039 1.94e-12 ***
+genre_Western     -0.297022   0.028699 -10.349  < 2e-16 ***
+genre_count        0.840147   0.008603  97.656  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 1.885 on 318848 degrees of freedom
+Multiple R-squared:  0.1694,	Adjusted R-squared:  0.1693 
+F-statistic:  3096 on 21 and 318848 DF,  p-value: < 2.2e-16
+

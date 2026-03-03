@@ -1,0 +1,44 @@
+
+Call:
+lm(formula = formula_b, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.6570 -1.3704 -0.3404  1.0720 10.9269 
+
+Coefficients: (6 not defined because of singularities)
+                   Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        4.029252   0.006375  632.04  < 2e-16 ***
+genre_Action       0.612689   0.011604   52.80  < 2e-16 ***
+genre_Adventure    0.633591   0.014591   43.42  < 2e-16 ***
+genre_Animation    0.673775   0.025475   26.45  < 2e-16 ***
+genre_Biography    1.044609   0.019614   53.26  < 2e-16 ***
+genre_Comedy       0.738436   0.008382   88.10  < 2e-16 ***
+genre_Crime        0.838859   0.012465   67.30  < 2e-16 ***
+genre_Documentary -0.579460   0.010214  -56.73  < 2e-16 ***
+genre_Family       0.300538   0.017623   17.05  < 2e-16 ***
+genre_Fantasy      0.638441   0.019586   32.60  < 2e-16 ***
+genre_Film.Noir          NA         NA      NA       NA    
+genre_Game.Show          NA         NA      NA       NA    
+genre_History      0.603836   0.020733   29.12  < 2e-16 ***
+genre_Horror       0.773836   0.013104   59.05  < 2e-16 ***
+genre_Music        0.515658   0.021240   24.28  < 2e-16 ***
+genre_Musical     -0.138604   0.023335   -5.94 2.86e-09 ***
+genre_Mystery      0.878642   0.017560   50.04  < 2e-16 ***
+genre_News               NA         NA      NA       NA    
+genre_Reality.TV         NA         NA      NA       NA    
+genre_Romance      0.783638   0.011093   70.64  < 2e-16 ***
+genre_Sci.Fi       0.985949   0.022037   44.74  < 2e-16 ***
+genre_Short              NA         NA      NA       NA    
+genre_Sport        0.954606   0.029715   32.12  < 2e-16 ***
+genre_Talk.Show          NA         NA      NA       NA    
+genre_Thriller     0.842622   0.012576   67.00  < 2e-16 ***
+genre_War          0.644342   0.023940   26.91  < 2e-16 ***
+genre_Western      0.627953   0.027494   22.84  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 1.913 on 318849 degrees of freedom
+Multiple R-squared:  0.1445,	Adjusted R-squared:  0.1445 
+F-statistic:  2693 on 20 and 318849 DF,  p-value: < 2.2e-16
+

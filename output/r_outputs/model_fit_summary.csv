@@ -1,0 +1,3 @@
+"model","r_squared","n"
+"With genre_count",0.16937174675677,318870
+"Without genre_count",0.14452755183171,318870

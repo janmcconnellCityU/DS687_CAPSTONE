@@ -33,9 +33,9 @@ Audience engagement, IMDb ratings, production metadata, relational data analysis
 
 | Tool     | Purpose                                      |
 |----------|----------------------------------------------|
-| **SQL**  | Loading, joining, and filtering large datasets (e.g., SQLite or PostgreSQL) |
-| **R**    | Statistical summaries and data visualization (`ggplot2`, `dplyr`, `tidytext`) |
-| **Python** | NLP preprocessing, feature engineering, machine learning modeling (`pandas`, `sklearn`, `nltk`, `matplotlib`) |
+| **Python** | Exploratory analysis, visualization, feature engineering |
+| **R**    | Regression modeling and statistical validation |
+| **SQL**  | Data preparation, joins, filtering, feature construction |
 
 ---
 
@@ -126,6 +126,31 @@ A curated table, **`filtered_movies`**, was created using the following criteria
 **Final dataset size: 18,371 movies.**
 
 **Purpose:**
-To create a clean, consistent dataset suitable for feature engineering, exploratory analysis, visualization, and predictive modeling in Python and R.
+To create a clean, consistent dataset suitable for feature engineering, exploratory analysis, visualization, and regression-based interpretation in Python and R.
 
 ---
+
+DS687_CAPSTONE
+│
+├── README.md                     Project documentation and overview
+├── imdb_data.db                  SQLite database constructed from IMDb datasets
+│
+├── data/                         Raw IMDb TSV datasets downloaded from IMDb
+│
+├── scripts/                      Data preparation and analysis scripts
+│   ├── SQL exploration and dataset construction
+│   ├── Python exploratory analysis and visualization
+│   └── R statistical validation
+│
+├── output/                       Generated analytical datasets, model summaries, and figures
+│
+└── research/                     Literature review materials and reference management files
+
+---
+
+## Analytical Workflow
+
+1. Raw IMDb datasets are downloaded and imported into a relational SQLite database.
+2. SQL queries are used to explore the schema and construct a curated movies-only analytical dataset.
+3. Python is used for exploratory analysis and visualization of engagement patterns.
+4. Regression models are estimated and replicated in R to validate statistical results.

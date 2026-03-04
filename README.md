@@ -130,21 +130,26 @@ To create a clean, consistent dataset suitable for feature engineering, explorat
 
 ---
 
+## 📁 Project Structure
+
+The repository is organized to reflect the analytical workflow used in the project.
+
+```
 DS687_CAPSTONE
+├── README.md        Project documentation and overview
+├── imdb_data.db     SQLite database constructed from IMDb datasets
 │
-├── README.md                     Project documentation and overview
-├── imdb_data.db                  SQLite database constructed from IMDb datasets
+├── data/            Raw IMDb TSV datasets downloaded from IMDb
 │
-├── data/                         Raw IMDb TSV datasets downloaded from IMDb
-│
-├── scripts/                      Data preparation and analysis scripts
+├── scripts/         Data preparation and analysis scripts
 │   ├── SQL exploration and dataset construction
 │   ├── Python exploratory analysis and visualization
 │   └── R statistical validation
 │
-├── output/                       Generated analytical datasets, model summaries, and figures
+├── output/          Generated analytical datasets, model summaries, and figures
 │
-└── research/                     Literature review materials and reference management files
+└── research/        Literature review materials and reference management files
+```
 
 ---
 

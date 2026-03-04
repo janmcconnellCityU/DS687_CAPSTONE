@@ -153,7 +153,7 @@ DS687_CAPSTONE
 
 ---
 
-## Analytical Workflow
+## 🔄 Analytical Workflow
 
 1. Raw IMDb datasets are downloaded and imported into a relational SQLite database.
 2. SQL queries are used to explore the schema and construct a curated movies-only analytical dataset.

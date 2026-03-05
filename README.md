@@ -2,9 +2,13 @@
 ### DS687 Data Science Capstone Project
 
 **Author**: Jan McConnell
+
 **Email**: janmcconnell@cityuniversity.edu
+
 **Program**: Master of Science in Data Science (MSDS), City University of Seattle
+
 **Course**: DS687 – Data Science Capstone
+
 
 ---
 

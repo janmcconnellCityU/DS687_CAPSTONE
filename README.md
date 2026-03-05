@@ -1,10 +1,12 @@
 # Signal Extraction from IMDb Ratings and Metadata
 ### DS687 Data Science Capstone Project
 
-**Jan McConnell**
-MS Data Science, City University of Seattle
-DS687 – Data Science Capstone
-janmcconnell@cityuniversity.edu
+<table>
+<tr><td><strong>Author</strong></td><td>Jan McConnell</td></tr>
+<tr><td><strong>Email</strong></td><td>janmcconnell@cityuniversity.edu</td></tr>
+<tr><td><strong>Program</strong></td><td>MS Data Science, City University of Seattle</td></tr>
+<tr><td><strong>Course</strong></td><td>DS687 – Data Science Capstone</td></tr>
+</table>
 
 ---
 

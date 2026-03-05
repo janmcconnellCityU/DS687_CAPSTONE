@@ -14,7 +14,7 @@
 
 This capstone project uses the Internet Movie Database (IMDb) as a real-world example of large, relational data used for applied analytics. The focus is on examining IMDb ratings and structured production metadata to understand what observable audience engagement signals can be extracted and where those signals are limited.
 
-A clean, movies-only analytical dataset is constructed using SQL through relational joins, filtering, and feature engineering. The analysis examines how production attributes such as genres, release periods, and cast and crew roles relate to audience ratings and vote counts. The goal is not to evaluate film quality or artistic merit, but to identify patterns and relationships that emerge when ratings-based measures are analyzed alongside production metadata.
+A clean, movies-only analytical dataset is constructed using SQL through relational joins, filtering, and feature engineering. The analysis examines how production attributes such as genres, release periods, and cast and crew roles relate to audience ratings and vote counts. The goal is not to evaluate film quality or artistic merit, but to identify structural patterns that emerge when ratings-based engagement measures are analyzed alongside production metadata.
 
 The project reflects an applied analytics workflow. SQL is used for data preparation and feature construction, Python is used for exploratory analysis and visualization, and R is used for statistical validation. Results are presented with an emphasis on interpretability and analytical reasoning, supporting decision-oriented insights relevant to professional analytics and business contexts.
 
@@ -172,19 +172,18 @@ The repository is organized to reflect the analytical workflow used in the proje
 
 ```
 DS687_CAPSTONE
-├── README.md        Project documentation and overview
-├── imdb_data.db     SQLite database constructed from IMDb datasets
 │
-├── data/            Raw IMDb TSV datasets downloaded from IMDb
+├── README.md
+├── imdb_data.db
 │
-├── scripts/         Data preparation and analysis scripts
+├── data/
+├── scripts/
 │   ├── SQL exploration and dataset construction
 │   ├── Python exploratory analysis and visualization
 │   └── R statistical validation
 │
-├── output/          Generated analytical datasets, model summaries, and figures
-│
-└── research/        Literature review materials and reference management files
+├── output/
+└── research/
 ```
 
 ---

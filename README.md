@@ -4,7 +4,8 @@
 **Jan McConnell**
 MS Data Science, City University of Seattle
 DS687 – Data Science Capstone
-janmcconnell@cityuniversity.edu
+
+📧 janmcconnell@cityuniversity.edu
 
 ---
 

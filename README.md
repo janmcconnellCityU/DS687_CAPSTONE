@@ -1,4 +1,5 @@
-# DS687 Capstone Project: Signal Extraction from IMDb Ratings and Metadata
+# Signal Extraction from IMDb Ratings and Metadata
+### DS687 Data Science Capstone Project
 
 **Author**: Jan McConnell
 **Email**: janmcconnell@cityuniversity.edu
@@ -20,6 +21,18 @@ The project reflects an applied analytics workflow. SQL is used for data prepara
 ## 📌 Abstract
 
 The Internet Movie Database (IMDb) provides structured data on film titles, production attributes, and aggregated audience ratings. This project analyzes IMDb data to examine how production-related factors, including cast, crew, and title attributes, relate to observable audience engagement as reflected in ratings and vote counts. SQL is used to construct and validate a relational analytical dataset through targeted joins, filtering, and feature engineering. Python supports exploratory analysis and visualization, and R is used for statistical validation. The project emphasizes interpretation of ratings-based signals within complex, real-world data and demonstrates an end-to-end analytics workflow applicable to decision support and applied data science.
+
+---
+
+## 📊 Key Findings
+
+The analysis reveals several consistent structural patterns in IMDb engagement data:
+
+* Engagement volume varies systematically across genres. Action, Adventure, Sci-Fi, Thriller, and Biography are associated with higher participation levels relative to the reference genre.
+* Multi-genre classification increases model fit modestly, but genre identity remains the dominant organizing dimension of engagement differences.
+* Engagement volume increases with production scale. Films with larger credited cast and crew teams tend to accumulate substantially more audience votes.
+* Average rating and vote count represent distinct engagement signals. Highly rated films are not necessarily the most widely engaged titles.
+* Regression models estimated independently in Python and R produced consistent coefficients and fit statistics, confirming robustness across analytical environments.
 
 ---
 
@@ -61,8 +74,6 @@ This included:
 
 This established a clear understanding of how the raw dataset is organized.
 
----
-
 ### 2. Exploratory Data Analysis in SQL
 Descriptive queries were used to understand distribution patterns and data quality:
 
@@ -77,8 +88,6 @@ Descriptive queries were used to understand distribution patterns and data quali
 
 **Insight:** IMDb contains a large volume of low-engagement or non-movie content, which supported the decision to narrow the project focus to movies only.
 
----
-
 ### 3. Performance Optimization
 Given the size of several IMDb tables, performance improvements were required.
 The SQL work introduced:
@@ -88,8 +97,6 @@ The SQL work introduced:
 - Rewritten queries to avoid slow substring operations.
 
 **Outcome:** Queries became significantly faster, making deep exploration feasible.
-
----
 
 ### 4. Cast and Crew Popularity Analysis
 With normalized pivot tables, the project examined whether certain contributors were consistently associated with higher audience engagement.
@@ -102,8 +109,6 @@ Analyses included:
 
 **Key Finding:** Individuals connected to major franchises or highly visible genres tend to appear in films with higher audience engagement.
 
----
-
 ### 5. Missing Data Assessment
 The SQL analysis also measured missingness for critical modeling fields:
 
@@ -112,8 +117,6 @@ The SQL analysis also measured missingness for critical modeling fields:
 - `genres`
 
 **Insight:** Missing metadata is widespread in the broader IMDb dataset, reaffirming the need for filtering before modeling.
-
----
 
 ### 6. Construction of the Final Modeling Dataset
 A curated table, **`filtered_movies`**, was created using the following criteria:
@@ -126,7 +129,38 @@ A curated table, **`filtered_movies`**, was created using the following criteria
 **Final dataset size: 18,371 movies.**
 
 **Purpose:**
-To create a clean, consistent dataset suitable for feature engineering, exploratory analysis, visualization, and regression-based interpretation in Python and R.
+To create a clean, consistent dataset suitable for feature engineering, exploratory analysis, visualization, and regression-based analysis in Python and R.
+
+---
+
+## 🐍 Python Analysis Summary
+
+Python was used for exploratory analysis, feature engineering, and visualization of the curated analytical dataset generated through SQL.
+
+Key analytical steps included:
+
+- Importing the curated dataset exported from SQLite into a pandas-based analysis environment.
+- Transforming vote counts using a logarithmic scale to stabilize variance and support linear modeling assumptions.
+- Creating genre indicator variables for regression modeling.
+- Generating exploratory visualizations to examine the distribution of IMDb ratings and engagement levels.
+- Examining relationships between genre classification and engagement volume.
+
+These analyses helped establish the structural relationships later evaluated through regression modeling.
+
+---
+
+## 📈 R Statistical Validation Summary
+
+R was used to replicate and validate the regression models originally estimated during the Python analysis phase.
+
+Key validation steps included:
+
+- Importing the prepared analytical dataset (`df_modeling_ready.csv`).
+- Reconstructing the regression design matrix used in the Python implementation.
+- Estimating ordinary least squares (OLS) models examining the relationship between genre classification and engagement volume.
+- Comparing model coefficients and fit statistics across Python and R environments.
+
+Independent replication confirmed that coefficient estimates and model fit statistics were consistent across environments, strengthening confidence that the findings reflect the dataset structure rather than software-specific estimation behavior.
 
 ---
 
@@ -153,9 +187,24 @@ DS687_CAPSTONE
 
 ---
 
-## 🔄 Analytical Workflow
+## ⚙️ Analytical Workflow
 
 1. Raw IMDb datasets are downloaded and imported into a relational SQLite database.
 2. SQL queries are used to explore the schema and construct a curated movies-only analytical dataset.
 3. Python is used for exploratory analysis and visualization of engagement patterns.
 4. Regression models are estimated and replicated in R to validate statistical results.
+
+---
+
+## 🔁 Reproducibility
+
+The analysis can be reproduced by following the workflow below.
+
+1. Download the IMDb datasets from the official source:
+   https://datasets.imdbws.com/
+2. Place the TSV files in the `data/` directory.
+3. Execute the SQL scripts in the `scripts/` directory to construct the curated movies-only analytical dataset.
+4. Export the modeling dataset used for analysis:
+   `output/df_modeling_ready.csv`
+5. Run the Python notebook for exploratory analysis and visualization.
+6. Run the R script to replicate and validate the regression models.

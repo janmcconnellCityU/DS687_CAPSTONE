@@ -20,7 +20,7 @@ The project reflects an applied analytics workflow. SQL is used for data prepara
 
 ---
 
-🎥 Project Demonstration
+## 🎥 Project Demonstration
 
 A recorded walkthrough of the full analytical workflow, including SQL data preparation in SQLite, exploratory analysis in Python, and validation in R, is available below:
 

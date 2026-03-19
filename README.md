@@ -20,6 +20,16 @@ The project reflects an applied analytics workflow. SQL is used for data prepara
 
 ---
 
+🎥 Project Demonstration
+
+A recorded walkthrough of the full analytical workflow, including SQL data preparation in SQLite, exploratory analysis in Python, and validation in R, is available below:
+
+👉 https://youtu.be/sTapilkCujk
+
+This demonstration shows the end-to-end process implemented in VS Code and reflects the same workflow described in this repository.
+
+---
+
 ## 📌 Abstract
 
 The Internet Movie Database (IMDb) provides structured data on film titles, production attributes, and aggregated audience ratings. This project analyzes IMDb data to examine how production-related factors, including cast, crew, and title attributes, relate to observable audience engagement as reflected in ratings and vote counts. SQL is used to construct and validate a relational analytical dataset through targeted joins, filtering, and feature engineering. Python supports exploratory analysis and visualization, and R is used for statistical validation. The project emphasizes interpretation of ratings-based signals within complex, real-world data and demonstrates an end-to-end analytics workflow applicable to decision support and applied data science.
